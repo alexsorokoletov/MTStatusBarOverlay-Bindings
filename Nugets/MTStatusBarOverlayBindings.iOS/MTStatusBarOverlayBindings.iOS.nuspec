@@ -2,12 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>MTStatusBarOverlayBindings.iOS</id>
-    <version>1.0.0.1</version>
+    <version>1.0.0.2</version>
     <authors>dreamteammobile</authors>
     <owners>DreamTeam Mobile, LLC.</owners>
     <projectUrl>https://github.com/myell0w/MTStatusBarOverlay</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Xamarin bindings to the MTStatusBarOverlay. Support unified API. (ref c2002587ddefd75423bc766c172f2574575c0966)</description>
+    <description>Xamarin bindings to the MTStatusBarOverlay. Support unified API. Support iOS9</description>
     <tags>MTStatusBarOverlay Xamarin iOS MonoTouch DreamTeam</tags>
   </metadata>
 </package>
