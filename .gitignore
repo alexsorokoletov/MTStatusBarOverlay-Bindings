@@ -1,0 +1,15 @@
+[Bb]in
+[Oo]bj
+[Dd]ebug/
+[Rr]elease/
+[Ss]tore/
+[Ss]taging/
+[Pp]ackages/
+[Cc]omponents/
+
+*.suo
+*.user
+*.userprefs
+
+.DS_Store
+[Dd][Tt].[Tt]akson.[Aa]ndroid/[Rr]esources/[Rr]esource.[Dd]esigner.cs
